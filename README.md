@@ -18,7 +18,7 @@
 <h3 align='center'>📚 Learning</h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   
 <!--
 **potatovllage/potatovllage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
