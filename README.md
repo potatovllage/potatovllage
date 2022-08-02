@@ -1,4 +1,5 @@
 🥔 대덕 SW 마이스터고에 2학년으로 재학중인 전영준입니다!
+🖼️ 노션 포트폴리오 -> https://befitting-paper-018.notion.site/c5f9756a3f03419daf4814b5289be74d
   
 <!--
 **potatovllage/potatovllage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
