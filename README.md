@@ -1,5 +1,5 @@
 🥔 대덕 SW 마이스터고에 재학중인 전영준입니다! <br/>
-🖼️ 노션 포트폴리오 -> https://befitting-paper-018.notion.site/c5f9756a3f03419daf4814b5289be74d
+🖼️ 노션 포트폴리오 -> https://befitting-paper-018.notion.site/c5f9756a3f03419daf4814b5289be74d <br/>
 📷 Web 포트폴리오 -> https://yeongjoon-portfolio-bh8wml3c3-potatovllage.vercel.app/
   
 <!--
