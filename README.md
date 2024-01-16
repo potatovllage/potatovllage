@@ -1,4 +1,4 @@
-🏫 대덕 SW 마이스터고에 재학중인 전영준입니다! <br/>
+
 <!--
 **potatovllage/potatovllage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
